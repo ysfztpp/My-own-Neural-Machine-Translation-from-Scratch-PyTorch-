@@ -2,7 +2,7 @@
 
 A minimal, from-scratch implementation of a **Neural Machine Translation (NMT) system**
 built to understand how encoder–decoder models work under the hood.
-This model is only for English to Spanish translation. And it only created with 150,000 sentences from English to Spanish.
+This model is only for English to Spanish translation. And it was only created with 150,000 sentences from English to Spanish.
 
 ---
 
