@@ -2,6 +2,7 @@
 
 A minimal, from-scratch implementation of a **Neural Machine Translation (NMT) system**
 built to understand how encoder–decoder models work under the hood.
+This model is only for English to Spanish translation. And it only created with 150,000 sentences from English to Spanish.
 
 ---
 
@@ -21,7 +22,7 @@ No pretrained models or external NMT libraries are used.
 
 ## Model Architecture
 
-<img width="720" alt="encoder-decoder-detail" src="[https://github.com/user-attachments/assets/2f91b4a1-encoder-decoder](https://av-eks-lekhak.s3.amazonaws.com/media/__sized__/article_images/image_Z3Jneoa-thumbnail_webp-600x300.webp)" />
+<img width="720" alt="encoder-decoder-detail" src="https://av-eks-lekhak.s3.amazonaws.com/media/__sized__/article_images/image_Z3Jneoa-thumbnail_webp-600x300.webp" />
 
 - **Encoder**
   - Embedding layer
